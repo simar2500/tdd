@@ -1,0 +1,5 @@
+20:15:52.928 [main] INFO  Calculator - Running Before Class
+20:15:52.948 [main] DEBUG Calculator - Following value of A 2 and B2
+20:15:52.948 [main] INFO  Calculator - sum is 4
+20:15:52.954 [main] WARN  Calculator - this is a warning message
+20:15:52.954 [main] FATAL Calculator - a fatal message
